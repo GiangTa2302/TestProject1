@@ -37,6 +37,11 @@ button{
   background-color: #04AA6D;
   color: white;
 }
+
+th{
+	padding: 12px;
+}
+
 </style>
 </head>
 <body>
