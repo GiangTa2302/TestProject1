@@ -13,6 +13,10 @@ table {
   width: 100%;
 }
 
+button{
+	cursor:pointer;
+}
+
 #customers th {
   padding-top: 12px;
   padding-bottom: 12px;

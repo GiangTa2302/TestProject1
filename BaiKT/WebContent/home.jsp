@@ -22,6 +22,10 @@ tr, td{
 	border: 1px solid #140908;
 }
 
+button{
+	cursor:pointer;
+}
+
 
 #customers tr:nth-child(even){background-color: #f2f2f2;}
 
